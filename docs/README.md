@@ -7,14 +7,18 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      name: BogaLeng Study
+      tagline: 仰高笃行，知新致远
+      text: Love Life,Love Coding
       actions:
         -
           theme: brand
-          text: 博客
+          text: 随笔
           link: /blog/
+        -
+          theme: brand
+          text: Z²的主页
+          link: https://zpingfang.cn
         -
           theme: alt
           text: Github →
