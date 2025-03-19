@@ -13,8 +13,12 @@ config:
       actions:
         -
           theme: brand
-          text: 随笔
+          text: 技术随笔
           link: /blog/
+        -
+          theme: brand
+          text: 学习笔记
+          link: /demo/
         -
           theme: brand
           text: Z²的主页
@@ -22,5 +26,5 @@ config:
         -
           theme: alt
           text: Github →
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+          link: https://github.com/
 ---

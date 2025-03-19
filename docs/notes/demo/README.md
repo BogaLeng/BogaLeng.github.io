@@ -1,8 +1,7 @@
 ---
-title: Demo
+title: 笔记随笔
 createTime: 2025/03/17 12:36:08
 permalink: /demo/
 ---
 
-- [bar](./bar.md)
-- [foo](./foo.md)
+- [微信小程序](./wx-getPhone.md)
