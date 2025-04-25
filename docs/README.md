@@ -3,11 +3,13 @@ pageLayout: home
 externalLinkIcon: false
 config:
   -
-    type: hero
-    full: true
-    background: tint-plate
+    type: banner
+    banner: https://api.pengzhanbo.cn/wallpaper/bing
+    bannerMask:
+      light: 0.1
+      dark: 0.3
     hero:
-      name: BogaLeng Study
+      name: BogaLeng Studio
       tagline: 仰高笃行，知新致远
       text: Love Life,Love Coding
       actions:
